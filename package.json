@@ -18,6 +18,7 @@
     "start:eve": "eve start"
   },
   "dependencies": {
+    "@openrouter/ai-sdk-provider": "^3.0.0",
     "@vercel/connect": "0.4.2",
     "ai": "7.0.84",
     "eve": "0.47.3",
